@@ -15,11 +15,6 @@ For the documentation, please visit:
 
 https://github.com/espotek/labrador/wiki
 
-# Licence
-All software files are licenced under [GNU GPL v3](https://www.gnu.org/licenses/gpl.html)
-
-All hardware files (schematics, PCB) are licenced under [Creative Commons 4.0 (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 # Building from Source
 I use Qt Creator to build the software interface.
 https://www.qt.io/download-open-source/
@@ -52,3 +47,9 @@ If you just want to say hello and remind me that people are actually using my pr
 Thanks to all.
 
 ~Chris
+
+
+# Licence
+All software files are licenced under [GNU GPL v3](https://www.gnu.org/licenses/gpl.html)
+
+All hardware files (schematics, PCB) are licenced under [Creative Commons 4.0 (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
